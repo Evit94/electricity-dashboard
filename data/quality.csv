@@ -1,0 +1,13 @@
+region,region_code,rows,duplicates,gap_timestamps,non_numeric,negative_values,missing_consumption,missing_thermal,missing_nuclear,missing_wind,missing_solar,missing_hydro,missing_bioenergy,missing_pumping,missing_exchanges
+Auvergne-Rhône-Alpes,84,239568,28,26,2,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bourgogne-Franche-Comté,27,239568,28,26,2,103,0.0,0.0,58.55,0.0,0.0,0.0,0.0,0.0,0.0
+Bretagne,53,239568,28,26,2,18,0.0,0.0,58.55,0.0,0.0,0.0,0.0,0.0,0.0
+Centre-Val de Loire,24,239568,28,26,50,504,0.0,0.0,0.0,0.02,0.0,0.0,0.0,58.55,0.0
+Grand Est,44,239568,28,26,2,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hauts-de-France,32,239568,28,26,2,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.63,0.0
+Normandie,28,239568,28,26,2,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58.55,0.0
+Nouvelle-Aquitaine,75,239568,28,26,2,33387,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58.55,0.0
+Occitanie,76,239568,28,26,2,31926,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pays de la Loire,52,239568,28,26,2,7336,0.0,0.0,58.55,0.0,0.0,0.0,0.0,58.55,0.0
+Provence-Alpes-Côte d'Azur,93,239568,28,26,2,34,0.0,0.0,58.55,0.0,0.0,0.0,0.0,0.0,0.0
+Île-de-France,11,239568,28,26,50,39518,0.0,0.0,58.55,0.02,0.0,0.0,0.0,58.55,0.0
