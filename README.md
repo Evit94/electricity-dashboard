@@ -5,6 +5,7 @@ Individual project - Data Visualisation (EFREI, #EFREIDataStories2026). Streamli
 - **Live app**: https://electricity-dashboard-yukqqxyxdw8j8yzbctgpat.streamlit.app/
 - **Repository**: https://github.com/Evit94/electricity-dashboard
 - **Storyboard**: [STORYBOARD.pdf](STORYBOARD.pdf)
+- **Demo video**: https://youtu.be/yWWaE07H9is
 
 ## Story
 
