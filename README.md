@@ -2,6 +2,10 @@
 
 Individual project - Data Visualisation (EFREI, #EFREIDataStories2026). Streamlit data-storytelling dashboard.
 
+- **Live app**: https://electricity-dashboard-yukqqxyxdw8j8yzbctgpat.streamlit.app/
+- **Repository**: https://github.com/Evit94/electricity-dashboard
+- **Storyboard**: [STORYBOARD.pdf](STORYBOARD.pdf)
+
 ## Story
 
 - **Hook**: electricity is produced and consumed locally, and French regions are very different.
